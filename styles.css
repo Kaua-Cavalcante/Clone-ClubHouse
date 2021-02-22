@@ -1,0 +1,22 @@
+html, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    border-top-left-radius: 2.3rem;
+    border-top-right-radius: 2.3rem;
+}
+
+#followers {
+    font-size: 13px;
+}
+
+main > div p {
+    background-color: #ddd;
+    border-radius: 42%;
+    width: 80px;
+    height: 80px;
+    text-indent: -9999px;
+    display: block;
+    overflow: hidden;
+}
